@@ -1,0 +1,40 @@
+  /* General Styling */
+  body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    background: url('../images/p9.jpg') no-repeat center center/cover;
+    min-height: 60vh;
+    padding: 5rem 0;
+    text-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.service-card {
+    transition: all 0.3s ease;
+}
+
+.service-card:hover {
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+}
+
+.testimonials p  {
+    color: black;
+    /* background: linear-gradient(to right, #007bff73, #1027f26b); */
+}
+
+.testimonial {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(5px);
+}
+.testimonial:hover{
+    background-color: #007bff5b;
+    color: white;
+}
+
+.cta-section {
+    background-color: rgba(26, 26, 27, 0.169);
+    color: rgb(6, 6, 6);
+}
