@@ -51,7 +51,7 @@ Perfect for colleges, universities, and private training centers.
 ## 🛠️ **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Lab-Test.git
+   git clone https://github.com/MuhammadShazil7/Lab-Test.git
 
    Start project:
 
