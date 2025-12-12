@@ -3,7 +3,6 @@
 # ⚡ **Lab Test – Electrical Lab Automation System**
 A PHP-based system to manage electrical lab equipment, test requests, usage logs, and reports.
 
-![Lab Test Banner](https://via.placeholder.com/1200x300.png?text=Lab+Test+%7C+Electrical+Lab+Automation+System)
 
 ---
 
@@ -67,15 +66,3 @@ Pull requests are welcome!
 Muhammad Shazil
 Full Stack Developer | Laravel - PHP | Flutter | ASP.NET
 
-
-
----
-
-If you want bro ❤️ I can also create:
-
-🔥 **Premium banner** (custom-designed)  
-🔥 **Custom project logo**  
-🔥 **Badges for features**  
-🔥 **Animated preview GIF**
-
-Just say “make banner” or “add logo”!
